@@ -42,3 +42,5 @@ This repository showcases my work on the PwC Switzerland Power BI Job Simulation
 - Demonstrated expertise in data visualization and actionable insights.
 - Focused on addressing business challenges through data-driven solutions.
 
+- ---
+
