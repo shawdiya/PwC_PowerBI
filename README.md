@@ -12,6 +12,7 @@ This repository showcases my work on the PwC Switzerland Power BI Job Simulation
 
 **Screenshots:**
 - ![Call Center Dashboard 1](/images/PwC_call_center_1.png)
+- 
 - ![Call Center Dashboard 2](/images/PwC_call_center_2.png)
 
 ---
@@ -44,3 +45,4 @@ This repository showcases my work on the PwC Switzerland Power BI Job Simulation
 
 - ---
 
+---
